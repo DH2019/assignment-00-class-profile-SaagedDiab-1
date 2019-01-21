@@ -1,0 +1,14 @@
+{
+  "firstName": "Saaged",
+  "lastName": "Diab",
+  "nickName": "Keek",
+  "privateName": false,
+  "picture": "images/SaagedDiab.jpg",
+  "privatePicture": false,
+  "email": "saaged.diab@mail.utoronto.ca",
+  "privateEmail": false,
+  "github": "SaagedDiab",
+  "privateGithub": false,
+  "superpower" : "flying",
+  "academicinterests": "statistics"
+}
